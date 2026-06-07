@@ -1,19 +1,17 @@
-# Hi there, I'm Amal 👋 I Love MAOMAO!
+# Hi there, I'm Amal I Love MAOMAO!
 
-
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  <!-- Stats Column -->
-  <div>
-    ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amal-amilun&layout=compact&theme=radical&hide_border=true&langs_count=10)
+<table>
+  <tr>
+    <!-- LEFT COLUMN: Your GitHub Stats -->
+    <td valign="top">
+      <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amal-amilun&layout=compact&theme=radical&hide_border=true&langs_count=10" /><br />
+      <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=amal-amilun&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" /><br />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=amal-amilun&theme=radical&hide_border=true" />
+    </td>
     
-    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=amal-amilun&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-    
-    ![GitHub Streak](https://streak-stats.demolab.com?user=amal-amilun&theme=radical&hide_border=true)
-  </div>
-
-  <!-- SVG / Image on the right -->
-  <div>
-    <img src="https://raw.githubusercontent.com/amal-amilun/amal-amilun/main/maomao.svg" width="280" alt="Maomao SVG" style="border-radius: 12px;"/>
-    <!-- Or use any other SVG/image URL here -->
-  </div>
-</div>
+    <!-- RIGHT COLUMN: Your SVG Image -->
+    <td valign="top">
+      <img alt="MAOMAO" src="MAOMAO.svg" width="300" />
+    </td>
+  </tr>
+</table>
