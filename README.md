@@ -10,6 +10,7 @@
     </td>
     <td valign="top">
       <img alt="MAOMAO" src="MAOMAO.svg" width="300" />
+      <img alt="MAOMAO" src="mamao(_≧_▽_≦_).jpg" width="300" />
     </td>
   </tr>
 </table>
