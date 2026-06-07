@@ -1,7 +1,4 @@
-# Hi there, I'm [Your GitHub Username] 👋
-
-![Maomao Banner](https://media.giphy.com/media/3Wj1SxyDEznCjXiMtm/giphy.gif)  
-<!-- Replace with a better Maomao banner GIF if you find one! This one is from GIPHY. -->
+# Hi there, I'm Amal
 
 ## Welcome to my corner of the GitHub palace! 🏯
 
