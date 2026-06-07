@@ -8,8 +8,6 @@
       <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=amal-amilun&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" /><br />
       <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=amal-amilun&theme=radical&hide_border=true" />
     </td>
-    
-    <!-- RIGHT COLUMN: Your SVG Image -->
     <td valign="top">
       <img alt="MAOMAO" src="MAOMAO.svg" width="300" />
     </td>
